@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rish2003&label=Profile%20views&color=0e75b6&style=flat" alt="rish2003" /> </p>
 
-- 🌱 I’m currently learning **Advanced Full Stack,DevOps and Blockchain Development**
+- 🌱 I’m currently learning **Advanced Full Stack,DevOps**
 
 - 💬 Ask me about **React, NEXT, Javascript**
 
